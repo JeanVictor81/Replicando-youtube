@@ -37,3 +37,12 @@ html, body{
     position: absolute;
     top: 250px;
 }
+.Nomevideo{
+    position: absolute;
+    top: 75%;
+    left: 3%;
+    width: 552px;
+    height: 24px;
+    font-size: 20px;
+    color: #ffffff;
+}
