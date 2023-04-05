@@ -1,5 +1,5 @@
 html, body{
-    background-color: #01020f;
+    background-color: #ffffff;
     display: center;
     height: 100%;
 
@@ -44,5 +44,5 @@ html, body{
     width: 552px;
     height: 24px;
     font-size: 20px;
-    color: #ffffff;
+    color: #000;
 }
